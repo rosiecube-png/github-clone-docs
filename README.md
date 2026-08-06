@@ -29,6 +29,16 @@
 | `github-clone-webhooks` | 이벤트 디스패치·알림 |
 | `github-clone-docs` | 명세·설계 문서 (이 저장소) |
 
+## 요구사항
+
+헌장에서 파생된 검증 가능한 요구사항입니다. 체계와 ID 규칙은
+[requirements/README.md](requirements/README.md)를 보세요.
+
+| 문서 | 내용 | 진척 |
+| --- | --- | --- |
+| [requirements/fr.md](requirements/fr.md) | 기능 요구사항 | T1 전개 완료. T2·T3는 ID 접두사만 예약 |
+| [requirements/nfr.md](requirements/nfr.md) | 비기능 요구사항 | 전체 범주 전개. 다수 수치가 잠정 |
+
 ## ADR
 
 주요 기술 결정과 그 근거입니다.
