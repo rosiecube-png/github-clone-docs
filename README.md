@@ -34,10 +34,13 @@
 헌장에서 파생된 검증 가능한 요구사항입니다. 체계와 ID 규칙은
 [requirements/README.md](requirements/README.md)를 보세요.
 
-| 문서 | 내용 | 진척 |
-| --- | --- | --- |
-| [requirements/fr.md](requirements/fr.md) | 기능 요구사항 | T1 전개 완료. T2·T3는 ID 접두사만 예약 |
-| [requirements/nfr.md](requirements/nfr.md) | 비기능 요구사항 | 전체 범주 전개. 다수 수치가 잠정 |
+| 문서 | 내용 |
+| --- | --- |
+| [requirements/fr.md](requirements/fr.md) | 기능 요구사항 — Tier 1 |
+| [requirements/fr-tier2.md](requirements/fr-tier2.md) | 기능 요구사항 — Tier 2 |
+| [requirements/fr-tier3.md](requirements/fr-tier3.md) | 기능 요구사항 — Tier 3 |
+| [requirements/nfr.md](requirements/nfr.md) | 비기능 요구사항 |
+| [requirements/open-questions.md](requirements/open-questions.md) | 미결 질문 — 인터뷰 백로그 |
 
 ## ADR
 
