@@ -31,15 +31,15 @@
 
 ## 요구사항
 
-헌장에서 파생된 검증 가능한 요구사항입니다. 체계와 ID 규칙은
-[requirements/README.md](requirements/README.md)를 보세요.
+**요구사항과 헌장의 원본은 Projects입니다.** 이 저장소에 복제해 두지 않습니다.
+
+- [Project #3 — github-clone](https://github.com/users/rosiecube-png/projects/3)
+  — 요구사항 185개(FR 135 · NFR 50), 헌장은 Project README
+
+체계와 필드 정의는 [requirements/README.md](requirements/README.md)를 보세요.
 
 | 문서 | 내용 |
 | --- | --- |
-| [requirements/fr.md](requirements/fr.md) | 기능 요구사항 — Tier 1 |
-| [requirements/fr-tier2.md](requirements/fr-tier2.md) | 기능 요구사항 — Tier 2 |
-| [requirements/fr-tier3.md](requirements/fr-tier3.md) | 기능 요구사항 — Tier 3 |
-| [requirements/nfr.md](requirements/nfr.md) | 비기능 요구사항 |
 | [requirements/open-questions.md](requirements/open-questions.md) | 미결 질문 — 인터뷰 백로그 |
 
 ## ADR
