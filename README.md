@@ -29,6 +29,19 @@
 | `github-clone-webhooks` | 이벤트 디스패치·알림 |
 | `github-clone-docs` | 명세·설계 문서 (이 저장소) |
 
+## ADR
+
+주요 기술 결정과 그 근거입니다.
+
+| 번호 | 제목 | 상태 |
+| --- | --- | --- |
+| [0001](adr/0001-implementation-language-rust.md) | 구현 언어로 Rust를 채택한다 | 채택됨 |
+| [0002](adr/0002-github-compatibility.md) | GitHub 호환성을 1급 요구사항으로 채택한다 | 채택됨 |
+
 ## 현재 상태
 
-저장소 초기화 단계입니다. 아직 작성된 명세는 없습니다.
+단계 0(기반) 진행 중입니다. 언어와 호환 방침이 정해졌고,
+웹 프런트엔드 방식·데이터베이스·CI 격리 방식이 미결입니다.
+
+프로젝트 헌장은 [Project #3](https://github.com/users/rosiecube-png/projects/3)의
+README에 있습니다.
