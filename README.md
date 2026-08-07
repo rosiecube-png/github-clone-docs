@@ -50,6 +50,9 @@
 | --- | --- | --- |
 | [0001](adr/0001-implementation-language-rust.md) | 구현 언어로 Rust를 채택한다 | 채택됨 |
 | [0002](adr/0002-github-compatibility.md) | GitHub 호환성을 1급 요구사항으로 채택한다 | 채택됨 |
+| [0003](adr/0003-ci-isolation-container-runtime.md) | CI 작업 격리에 컨테이너 런타임을 필수 의존성으로 둔다 | 채택됨 |
+| [0004](adr/0004-external-database-by-default.md) | 데이터베이스는 외부 DB를 기본으로 한다 | 채택됨 |
+| [0005](adr/0005-actions-admin-import-only.md) | 재사용 액션은 관리자 반입 전용으로 한다 | 채택됨 |
 
 ## 현재 상태
 
